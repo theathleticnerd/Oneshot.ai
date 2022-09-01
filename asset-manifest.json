@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/oneshotai/static/css/main.a617e044.chunk.css",
+    "main.js": "/oneshotai/static/js/main.f27546ce.chunk.js",
+    "main.js.map": "/oneshotai/static/js/main.f27546ce.chunk.js.map",
+    "runtime-main.js": "/oneshotai/static/js/runtime-main.52118dfa.js",
+    "runtime-main.js.map": "/oneshotai/static/js/runtime-main.52118dfa.js.map",
+    "static/js/2.c32e17d5.chunk.js": "/oneshotai/static/js/2.c32e17d5.chunk.js",
+    "static/js/2.c32e17d5.chunk.js.map": "/oneshotai/static/js/2.c32e17d5.chunk.js.map",
+    "static/js/3.c39a43c8.chunk.js": "/oneshotai/static/js/3.c39a43c8.chunk.js",
+    "static/js/3.c39a43c8.chunk.js.map": "/oneshotai/static/js/3.c39a43c8.chunk.js.map",
+    "index.html": "/oneshotai/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/oneshotai/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c32e17d5.chunk.js.LICENSE.txt": "/oneshotai/static/js/2.c32e17d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52118dfa.js",
+    "static/js/2.c32e17d5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.f27546ce.chunk.js"
+  ]
+}
